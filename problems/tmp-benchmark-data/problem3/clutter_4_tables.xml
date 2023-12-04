@@ -585,12 +585,12 @@
          </sssp>
      </obj>
 
-      <obj>
+      <!-- <obj>
          <name>arena</name>
          <geom>arena.obj</geom>
          <pose>1.000 0.000 0.000 0.000 0.000 1.000 0.000 0.000 0.000 0.000 1.000 0.200</pose>
          <moveable>false</moveable>
-     </obj>
+     </obj> -->
    </objects>
 
 
